@@ -7,6 +7,7 @@ Mentor: MUZAMMIL AHMED
 
 Overview of the Project: 
 The "Calculator" project is a GUI-based application developed in Java using the Swing library. It provides basic arithmetic functionalities such as addition, subtraction, multiplication, and division. The calculator is designed with an intuitive and user-friendly interface that allows users to perform quick and accurate calculations.
+
 ![image](https://github.com/user-attachments/assets/4eb8eafd-d54c-4fae-9746-354f85a6016e)
 
 
